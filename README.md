@@ -3,13 +3,3 @@
 I'm learning building interactive websites using javascript and webgl.
 
 Currentrly studying [@gobelins](https://github.com/gobelins) and working [@lestudiodigital](https://lestudiodigital.betc.com/)
-
-<details>
-<summary>⚡️ More about my coding life</summary>
-<br />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cadupuy&layout=compact&hide=css,html)
-
-![cadupuy's github stats](https://github-readme-stats.vercel.app/api?username=cadupuy&count_private=true&show_icons=true&theme=onedark)
-
-</details>
