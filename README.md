@@ -2,4 +2,4 @@
 
 I'm building interactive websites using javascript and webgl.
 
-Graduated from [@gobelins](https://www.gobelins.fr/) and currently working [@lestudiodigital](https://lestudiodigital.betc.com/)
+Currently working [@lestudiodigital](https://lestudiodigital.betc.com/) and alumni of [@gobelins](https://www.gobelins.fr/).
